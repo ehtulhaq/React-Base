@@ -1,0 +1,50 @@
+{
+    "colors": {
+        "grayDarker": "#484848",
+        "primaryDarker": "#008198",
+
+
+        "grayDark": "#868686",
+        "primaryDark": "#00ABC9",
+        "purpleDark":"#4924b4",
+        "redDark": "#de3433",
+        "orangeDark": "#ff7c00",
+
+        
+        "primary": "#80ECFF",
+        "gray": "#cacaca",
+        "yellow": "#FFE200",
+        "green": "#b2db11",
+        "red": "#FE4A49",
+        "black": "#141414",
+        "offWhite": "#F2F2F2",
+        "white": "#FFF",
+        "purple":"#bc69fb",
+        "orange": "#ffa500",
+        
+        
+        "primaryLight": "#b3dafb",
+        "greenLight": "#e6ff85",
+        "yellowLight": "#ffe085",
+        "purpleLight": "#c799ff",
+        "orangeLight": "#ffc999",
+        "redLight": "#fb6a69",
+        "grayLight": "#ebecec",
+
+
+        "grayVeryLight": "#F9F9F9",
+        "primaryVeryLight": "#cee5f8"
+    },
+    "fontWeight": {
+        "bold": "500",
+        "boldest": "700",
+        "lighter": "300"
+    },
+    "fontSize": {
+        "biggest": "2.2em",
+        "bigger": "1.4em",
+        "big": "1.2em",
+        "small": "0.9em",
+        "verysmall": "0.8em"
+    }
+}
