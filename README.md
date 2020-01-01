@@ -18,4 +18,5 @@ Navigation
 npm install -g flow-typed
 
 Then fun the following in your project dir
+
 flow-typed install
