@@ -12,4 +12,10 @@ Navigation
 - Redux
 - Flow
 - React Router
-- React JSS
+- Maerial UI JSS
+
+## Run the following
+npm install -g flow-typed
+
+Then fun the following in your project dir
+flow-typed install
